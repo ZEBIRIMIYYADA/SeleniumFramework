@@ -26,6 +26,7 @@
         <module name="Cnn" />
         <module name="Ebay" />
         <module name="Generic" />
+        <module name="YouTube" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -34,6 +35,8 @@
       <module name="Ebay" target="1.5" />
       <module name="Generic" target="1.5" />
       <module name="MySpaceAutomationFramework" target="1.5" />
+      <module name="Walgreens" target="1.5" />
+      <module name="YouTube" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

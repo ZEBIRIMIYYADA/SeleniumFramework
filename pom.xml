@@ -13,6 +13,8 @@
         <module>Cnn</module>
         <module>Amazon</module>
         <module>Ebay</module>
+        <module>YouTube</module>
+
     </modules>
 <dependencyManagement>
     <dependencies>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Youtube App ri=unning on Firefox Browser">
+    <parameter name="url" value="http://www.youtube.com"/>
+    <test name="Home Page">
+
+        <classes>
+            <!--class name="amazon.Retail"/>
+
+        </classes>
+
+    </test>
+
+</suite>
